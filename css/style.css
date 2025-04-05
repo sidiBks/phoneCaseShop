@@ -103,7 +103,7 @@ a {
         width: 20px;
     }
 
-    span {
+    .CartButton {
         background-color: #555454;
         width: 30px;
         height: 30px;
